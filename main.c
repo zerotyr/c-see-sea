@@ -2,5 +2,7 @@
 
 int main()
 {
-    printf("hello world");
+    char str1[15];
+    strcpy(str1, "Burrp");
+    printf(str1);
 }
